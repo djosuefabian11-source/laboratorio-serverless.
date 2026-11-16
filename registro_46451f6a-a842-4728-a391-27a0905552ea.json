@@ -1,0 +1,17 @@
+{
+    "nombre": "Dagoberto Josué",
+    "apellido": "Fabián Urriola",
+    "email": "djosuefabian11@gmail.com",
+    "token": "46451f6a-a842-4728-a391-27a0905552ea",
+    "fecha_utc": "2026-11-16T04:55:13.470191+00:00",
+    "sistema_operativo": "Linux",
+    "version_so": "6.18.58.1-microsoft-standard-WSL2",
+    "arquitectura": "x86_64",
+    "procesador": "",
+    "version_python": "3.12.16",
+    "hostname_contenedor": "d3dd03e7089e",
+    "plataforma": "OpenFaas",
+    "funcion": "registro-serverless",
+    "estado": "Ejecucion exitosa",
+    "firma_sha256": "6b59c9eaf76da65550121410639e9f109c91450dad8a8296bd21f88709f26c4f"
+}
